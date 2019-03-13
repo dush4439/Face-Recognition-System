@@ -1,5 +1,5 @@
 
-#Semple clection
+#Semple clection of user Face
 import cv2
 import numpy as np
 
