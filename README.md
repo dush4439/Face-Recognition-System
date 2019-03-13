@@ -1,4 +1,4 @@
-# Face-Recognition-System
+# Multi-Face-Recognition-System
 
 WARNING! This program is in Under development
 
